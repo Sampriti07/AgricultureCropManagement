@@ -1,0 +1,119 @@
+.form-group2{
+  margin-left: 225px;
+  color: #f7f7f7;
+}
+label {
+  display: block;
+  margin-top: 9px;
+  margin-left: -225px;
+}
+.card-container.card {
+  max-width: 340px !important;
+  padding: 40px 40px;
+}
+.card {
+  background-color: rgba(0, 0, 0, 0.20);
+  padding: 20px 25px 30px;
+  margin: 0 auto 25px;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  border-radius: 20px;
+  -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+  -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 1.65);
+  
+}
+.profile-img-card {
+  width: 90px;
+  height: 90px;
+  margin: 0 auto 10px;
+  display: block;
+  -moz-border-radius: 90%;
+  -webkit-border-radius: 10%;
+  border-radius: 100%;
+}
+
+.btn11{
+  background-color:rgb(0, 104, 74);
+  border-radius: 10px;
+  margin-left:-120%;
+  border-color: #f7f7f7;
+  padding-left: 20px;
+  padding-bottom: 8px;
+  padding-top: 8px;
+  padding-right: 20px;
+  color: #f7f7f7;
+  margin-top: 5px;
+}
+
+.btn12{
+  background-color: rgb(0, 104, 74);
+  border-radius: 10px;
+  margin-left:-220%;
+  border-color: #f7f7f7;
+  padding-left: 20px;
+  padding-bottom: 8px;
+  padding-top: 8px;
+  padding-right: 20px;
+  color: #f7f7f7;
+  margin-top: 5px;
+}
+.alert{
+  margin-left:-670%;
+  height: 60px;
+  width: 250px;
+  padding-top: 2.5px;
+}
+
+.alert1{
+  margin-left: -240px;
+  font-size: 22px;
+  color: black;
+  font:bolder;
+}
+
+.alert2{
+  margin-left: -240px;
+  font-size: 22px;
+  color: black;
+  font:bolder;
+}
+
+.bg{
+  height: 615px;
+  background-image: url(/src/static/21.jpg);
+  background-size: cover;
+}
+
+.col-md-12{
+  height: 615px;
+  background-image: url(/src/static/21.jpg);
+  background-size: cover;
+}
+
+.card1{
+  background-color: rgba(0, 0, 0, 0.20);
+  padding: 20px 25px 30px;
+   margin: 0 auto 25px;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  border-radius: 20px;
+  -moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+  -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 1.65);
+  max-width: 340px !important;
+  padding: 40px 40px;
+  padding-bottom: 50px;
+  
+}
+
+.container3{
+  background-image: url(/src/static/19.jpg);
+  background-size: cover;
+  height: 600px;
+  
+}
+
+.pro{
+  margin-left: 35%;
+}

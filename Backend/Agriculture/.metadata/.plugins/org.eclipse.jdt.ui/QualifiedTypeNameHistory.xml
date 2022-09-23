@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.capg.agriculture.Repository.Repository"/>
+    <fullyQualifiedTypeName name="org.springframework.cloud.netflix.eureka.server.EnableEurekaServer"/>
+    <fullyQualifiedTypeName name="com.capg.agriculture.service.CropService"/>
+    <fullyQualifiedTypeName name="com.capg.agriculture.Repository.CropRepository"/>
+    <fullyQualifiedTypeName name="com.capg.agriculture.entity.CropDetails"/>
+    <fullyQualifiedTypeName name="com.capg.agriculture.service.FarmerService"/>
+    <fullyQualifiedTypeName name="com.capg.agriculture.entity.Farmer"/>
+    <fullyQualifiedTypeName name="com.capg.agriculture.Repository.FarmerRepository"/>
+</qualifiedTypeNameHistroy>
